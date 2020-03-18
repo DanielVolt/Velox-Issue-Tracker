@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Copyright © 2020 ApexTweaks</key>
+	<string>اللغة العربية ✔️
+جميع الحقوق محفوظة
+© 2020 ApexTweaks</string>
+	<key>FAQ / Support</key>
+	<string>التعليمات والدعم</string>
+	<key>Guide</key>
+	<string>إرشادات</string>
+	<key>Preferences</key>
+	<string>إعدادات الأداة</string>
+	<key>Team</key>
+	<string>أعضاء الفريق</string>
+</dict>
+</plist>

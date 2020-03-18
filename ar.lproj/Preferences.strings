@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disable Icon Badges on Widgets</key>
+	<string>إيقاف عدد الإشعارات</string>
+	<key>Disable Widget visibility while scrolling</key>
+	<string>تعطيل الويدجت عند التمرير</string>
+	<key>Enable Velox</key>
+	<string>تفعيل الأداة</string>
+	<key>Enable loading Widgets after Respring</key>
+	<string>إعادة تحميل بعد الريسبرنج</string>
+	<key>In order for changes to take effect a respring is needed.</key>
+	<string>لتنفيذ وتطبيق التغييرات الرجاء عمل ريسبرنج.</string>
+	<key>Preferences</key>
+	<string>الإعدادات</string>
+	<key>Push icons back to original state</key>
+	<string>إعادة الأيقونات إلى وضعها الطبيعي</string>
+	<key>Reset Velox</key>
+	<string>إعادة ضبط الأداة</string>
+	<key>Reset Velox and restore home-screen layout to last known state.</key>
+	<string>إعادة تعيين الأداة وإعادة وضع تخطيط الشاشة للوضع المعروف.</string>
+	<key>Respring</key>
+	<string>ريسبرنج</string>
+	<key>Toggle this feature if you experience any sort of lag, Velox will disable it's Widget visibility feature so that it saves RAM.</key>
+	<string>تفعيل هذا الخيار لأرجاع الأيقونات إلى وضعها الطبيعي بعد التمرير وذلك لحفظ ذاكرة الرصول العشوائي RAM.</string>
+	<key>Turn this on to remove Icon Badges from Widgets.</key>
+	<string>تفعيل هذا الخيار لحذف عدد الإشعارات من الأيقونة في وضع العرض.</string>
+	<key>Velox tries to push apps to original states after you close a Velox Widget.</key>
+	<string>سيتم إعادة الأيقونات إلى وضعها الأفتراضي عند تفعيل هذا الخيار.</string>
+	<key>Warning use with cause: This feature is experimental and for beta testing only, proper implementation will come with an upcoming update.</key>
+	<string>تحذير للاستخدام مع السبب: هذه الميزة تجريبية ولإجراء اختبار تجريبي فقط ، سيأتي التنفيذ المناسب مع تحديث قادم.</string>
+</dict>
+</plist>

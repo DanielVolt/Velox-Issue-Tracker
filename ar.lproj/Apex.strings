@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FAQ / Support</key>
+	<string>التعليمات والدعم</string>
+	<key>Please read the FAQ before writing an email, thanks!</key>
+	<string>يرجى قراءة التعليمات قبل إرسال بريد ألكتروني، شكراً!</string>
+	<key>Read FAQ</key>
+	<string>قراءة التعليمات</string>
+	<key>Support E-mail</key>
+	<string>أرسل إيميل لدعم</string>
+</dict>
+</plist>
